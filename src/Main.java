@@ -8,7 +8,7 @@ public class Main {
         FeatureSUN Pretty = new FeatureSUN();
         Pretty.Heat = "123456";
         Pretty.size = 12345678;
-        Pretty.Temp = "3434";
+        Pretty.Temp = 500;
 
     }
 }
